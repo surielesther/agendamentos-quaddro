@@ -1,0 +1,30 @@
+#modal {
+  width: 40vw;
+  height: 90vh;
+  margin-left: 25vw;
+  align-items: center;
+}
+
+.modalForm {
+  width: 30vw;
+  align-items: center;
+  margin-left: 4vw;
+}
+.modalForm h2 {
+  color: #7b2ca5;
+}
+
+.InputModal {
+  width: 20vw;
+}
+
+.closeButton {
+  background-color: #7b2ca5;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+  width: 6vw;
+  height: 4vh;
+  margin-left: 29vw;
+}

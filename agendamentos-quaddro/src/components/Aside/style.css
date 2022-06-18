@@ -1,0 +1,64 @@
+.filtersButton {
+  background-color: white;
+  color: #100b49;
+  border: none;
+  margin: 2px;
+}
+
+#searchDiv {
+  margin: 1.5em;
+}
+
+#agendamentos {
+  color: #a237db;
+  font-size: large;
+  padding: 0%;
+  margin-top: 1em;
+}
+
+.button {
+  width: 5vw;
+  height: 4vh;
+  color: white;
+  font-size: 0.8em;
+  background-color: #3a3571;
+  border-radius: 1em;
+  border: none;
+  margin: 1em;
+}
+
+.tag {
+  width: 0.5vw;
+  height: 100%;
+  background-image: linear-gradient(to right, #002aff, #a237db);
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.cardContainer {
+  font-size: 1.15em;
+  display: flex;
+  height: 50vh;
+  margin: 5%;
+  border-radius: 3px;
+}
+
+.card {
+  background-color: #f8f9fa;
+}
+
+.title {
+  font-weight: 600;
+}
+
+.dates {
+  display: flex;
+  font-size: smaller;
+  font-weight: 500;
+}
+
+.description {
+  font-weight: 300;
+  height: 15vh;
+  width: 25vw;
+}
