@@ -1,5 +1,5 @@
 # Agendamentos-Quaddro
-Repositório do website criado para o processo seletivo MakersFellowship. Nesse site será demonstrado uma aplicação de agendamentos criada pelo React JS.
+Repositório do website criado para o processo seletivo MakersFellowship. Nesse site será demonstrado uma aplicação de agendamentos criada pelo React JS. Para armazenamento dos dados, será usado a estrutura de array.
 
 ### Conteúdo
 1. [Estrutura dos documentos](#estrutura)
